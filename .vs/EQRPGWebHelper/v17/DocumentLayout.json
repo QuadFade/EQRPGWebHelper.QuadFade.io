@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ychor\\source\\repos\\EQRPGWebHelper\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FCA831AF-948B-4BBC-B46C-DF5A966E9BB2}|EQRPGWebHelper.csproj|c:\\users\\ychor\\source\\repos\\eqrpgwebhelper\\wwwroot\\404.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCA831AF-948B-4BBC-B46C-DF5A966E9BB2}|EQRPGWebHelper.csproj|solutionrelative:wwwroot\\404.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FCA831AF-948B-4BBC-B46C-DF5A966E9BB2}|EQRPGWebHelper.csproj|c:\\users\\ychor\\source\\repos\\eqrpgwebhelper\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FCA831AF-948B-4BBC-B46C-DF5A966E9BB2}|EQRPGWebHelper.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA831AF-948B-4BBC-B46C-DF5A966E9BB2}|EQRPGWebHelper.csproj|c:\\users\\ychor\\source\\repos\\eqrpgwebhelper\\.nojekyll||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FCA831AF-948B-4BBC-B46C-DF5A966E9BB2}|EQRPGWebHelper.csproj|solutionrelative:.nojekyll||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "404.html",
+              "DocumentMoniker": "C:\\Users\\ychor\\source\\repos\\EQRPGWebHelper\\wwwroot\\404.html",
+              "RelativeDocumentMoniker": "wwwroot\\404.html",
+              "ToolTip": "C:\\Users\\ychor\\source\\repos\\EQRPGWebHelper\\wwwroot\\404.html",
+              "RelativeToolTip": "wwwroot\\404.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-19T23:22:50.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".nojekyll",
+              "DocumentMoniker": "C:\\Users\\ychor\\source\\repos\\EQRPGWebHelper\\.nojekyll",
+              "RelativeDocumentMoniker": ".nojekyll",
+              "ToolTip": "C:\\Users\\ychor\\source\\repos\\EQRPGWebHelper\\.nojekyll",
+              "RelativeToolTip": ".nojekyll",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-19T23:16:57.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\ychor\\source\\repos\\EQRPGWebHelper\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "wwwroot\\index.html",
               "ToolTip": "C:\\Users\\ychor\\source\\repos\\EQRPGWebHelper\\wwwroot\\index.html",
               "RelativeToolTip": "wwwroot\\index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-02-19T20:22:13.111Z",
               "EditorCaption": ""
