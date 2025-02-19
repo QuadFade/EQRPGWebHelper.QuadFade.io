@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EQRPGWebHelper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5deeb19fb00edb3dcba03bf03a4ff05a52e46d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0df1f2d5f9ae8cf36177489171819f3f5322e8fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("EQRPGWebHelper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EQRPGWebHelper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
